@@ -1,0 +1,21 @@
+.navbar {
+    grid-area: navbar;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 3rem;
+    background-color: #7e4fe1;
+    color: #fff;
+    font-size: 1.8rem;
+    padding-right: 8rem;
+}
+
+.logo {
+    font-weight: 600;
+}
+
+.icon-title {
+    vertical-align: middle;
+    margin-right: 5px;
+    margin-bottom: 7px;
+}
